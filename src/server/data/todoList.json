@@ -1,0 +1,20 @@
+[
+    {
+        "text": "Cook Dinner",
+        "isCompleted": false,
+        "isEditing": false,
+        "id": 1
+    },
+    {
+        "text": "Workout",
+        "isCompleted": false,
+        "isEditing": false,
+        "id": 2
+    },
+    {
+        "text": "Go for a run",
+        "isCompleted": false,
+        "isEditing": false,
+        "id": 3
+    }
+]
